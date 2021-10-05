@@ -1,4 +1,4 @@
-# impacta
+# Gitlab Docker
 Instalação do GitLab em Docker para laboratório DataOps
 
 ## Pré Requisitos
